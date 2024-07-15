@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "shahiljain@proton.me",
+                "Name": "Shahil Jain"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A Windows 11 like Pager",
+        "Icon": "battery",
+        "Id": "com.github.shahiljain.menupager",
+        "Name": "Menu Pager",
+        "Version": "0.1",
+        "Website": "https://github.com/shahiljain/menupager"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
